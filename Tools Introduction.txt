@@ -1,1 +1,7 @@
-In this project, MetaMask was utilized to display the number of SepoliaETH tokens available for transactions. OpenZeppelin served as the foundational tool for creating robust smart tokens and contracts, ensuring security and standard compliance. These contracts were developed and deployed using Remix, with a specific file named MyToken.sol created for this purpose. To verify and review the transaction details, Etherscan was employed, providing transparency and a detailed overview of the activities within the blockchain.
+In this project, MetaMask was utilized to display the number of SepoliaETH tokens available for transactions. 
+
+OpenZeppelin served as the foundational tool for creating robust smart tokens and contracts, ensuring security and standard compliance. 
+
+These contracts were developed and deployed using Remix, with a specific file named MyToken.sol created for this purpose. 
+
+To verify and review the transaction details, Etherscan was employed, providing transparency and a detailed overview of the activities within the blockchain.
